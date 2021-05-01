@@ -124,6 +124,11 @@ export * from './calculate/index';
 
 */
 
+export * from './workbook/index';
+export * from './spreadsheet/index';
+export * from './calculate/index';
+ 
+/*
 //workbook
 //   base
        export * from './workbook/base/workbook';
@@ -234,12 +239,12 @@ export * from './calculate/index';
        export * from './calculate/base/parser';
 
 //   common
-       export * from './caluculate/common/common';
-       export * from './caluculate/common/module';
-       export * from './caluculate/common/module-loader';
-       export * from './caluculate/common/enum';
-       export * from './caluculate/common/interface';
+       export * from './calculate/common/common';
+       export * from './calculate/common/module';
+       export * from './calculate/common/module-loader';
+       export * from './calculate/common/enum';
+       export * from './calculate/common/interface';
 
 //   formulas
-       export * from './caluculate/formulas/basic';
-
+       export * from './calculate/formulas/basic';
+*/

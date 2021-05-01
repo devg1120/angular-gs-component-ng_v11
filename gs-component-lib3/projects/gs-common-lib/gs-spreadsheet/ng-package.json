@@ -7,7 +7,6 @@
   "whitelistedNonPeerDependencies": [
           "@syncfusion/ej2-base",
           "@syncfusion/ej2-angular-base",
-          "@syncfusion/ej2-spreadsheet",
           "@syncfusion/ej2-charts",
               "@syncfusion/ej2-dropdowns",
                   "@syncfusion/ej2-grids",
